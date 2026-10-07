@@ -76,4 +76,4 @@ The goal of this project is to demonstrate how Artificial Intelligence and Deep 
 **Joydip Dey**
 
 B.Tech Computer Science Engineering
-University of Engineering & Management, Kolkata
+Institute of Engineering & Management, Kolkata
